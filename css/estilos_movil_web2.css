@@ -1,0 +1,71 @@
+@media screen and (max-device-width:600px){
+	#logo{
+		width:22%;
+	}
+
+	h1{
+		width:38%;
+		font-size:3.5em;
+		padding-left:5%;
+	}
+
+	@keyframes animation {
+  		from {color: white; font-size:2.3em;}
+ 		to {color: #B43104; font-size:3.5em;}
+	}
+
+	#redessociales{
+		width:40%;
+	}
+
+	#face{
+		width:14%;
+	}
+
+	#twit{
+		width:16%;
+	}
+
+	#youtube{
+		width:16%;
+	}
+
+	#face:hover{
+		width:16%;
+	}
+
+	#twit:hover{
+		width:18%;
+	}
+
+	#youtube:hover{
+		width:18%;
+	}
+
+	a,p{
+		font-size:1.4em;
+	}
+
+	li{
+		display:block;
+		width:200px;
+	}
+
+	ul ul{
+		top:0;
+		left:100%;
+	}
+
+	h2,h3{
+		font-size:1.7em;
+	}
+
+	#gato1{
+		width:60%;
+		margin:1% auto;
+	}
+
+	#gato2{
+		width:60%;
+		margin:1% auto;
+	}
